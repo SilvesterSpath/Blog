@@ -1,0 +1,8 @@
+node_modules
+
+/notes.txt
+
+/posts/node_modules
+/comments/node_modules
+
+.env
